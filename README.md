@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cemugras&label=Profile%20views&color=0e75b6&style=flat" alt="cemugras" height="30" width="150"/> </p>
 
-- 👨‍💻 All of my projects are available at [cemugras.com](cemugras.com)
+-  👨‍💻 All of my projects are available at<a href="https://cemugras.com" target="_blank" rel="noreferrer"> cemugras.com </a>
 
 - 📫 How to reach me **cemugrs@gmail.com**
 
